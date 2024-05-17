@@ -1,6 +1,6 @@
 # Background-Domain-Switch (BDS) for Robust SED
 
-An implementation example for adopting the BDS data augmentation approach proposed in this paper (paper link: https://www.isca-speech.org/archive/pdfs/interspeech_2023/lin23_interspeech.pdf). The work is presented and published in Interspeech'23. This repository will demonstrate on how to apply BDS using [DCASE Challenge-Task4](https://dcase.community/challenge2022/index) as example.
+An implementation example for adopting the BDS data augmentation approach proposed in this paper (paper link: https://www.isca-archive.org/interspeech_2023/lin23_interspeech.pdf). The work is presented and published in Interspeech'23. This repository will demonstrate on how to apply BDS using [DCASE Challenge-Task4](https://dcase.community/challenge2022/index) as example.
 
 
 ## Purpose of this Software
